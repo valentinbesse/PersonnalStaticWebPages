@@ -1,0 +1,6 @@
+# Files and folders to be ignored
+# HTML / CSS and IDE
+
+# Tools used.
+.vscode/*
+.obsidian/*
