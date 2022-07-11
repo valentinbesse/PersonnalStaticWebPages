@@ -7,4 +7,4 @@ My own static website.
 
 ## Resource
 
-I use a bootstrap : https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+I use a bootstrap : https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
